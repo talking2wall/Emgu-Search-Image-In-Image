@@ -3,6 +3,7 @@ Find specific image in bigger image, using *Emgu TemplateMatching*.
 
 # Usage
 In left side, pick a big background image from your local machine.
+<br>
 In right side, pick a smaller image to be looked for, in the background image.
 
 # Info
